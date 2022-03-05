@@ -10,19 +10,15 @@ This assignment is about working with arrays. In this case, we were tasked with 
 ## Kode
 
 
-5g0 compiles med fsharpc, og køres derefter med mono;
+The code is compiled with fsharpc and run with mono;
 
 	$ fsharpc 5g0.fsx
-	$ mono 5g0.exe
-
-
-Til sidst compiles og køres 5g1 med fsharpc og mono;
-
 	$ fsharpc 5g1.fsx
+	$ mono 5g0.exe
 	$ mono 5g1.exe
 
 
-Både 5g0.fsx og 5g1.fsx compiles til XML med fsharpc;
+The code is compiled to XML with fsharpc;
 
 	$ fsharpc --doc:5g0.xml -a 5g0.fsx
 	$ fsharpc --doc:5g1.xml -a 5g1.fsx
