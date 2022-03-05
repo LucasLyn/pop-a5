@@ -1,7 +1,7 @@
 # PoP - Assignment 5
 PoP - 5g
 
-Don't be stupid...
+This assignment is about working with arrays. In this case, we were tasked with creating multiple arrays of arrays, and transpose them, etc.
 
 
 # PoP - 5g
