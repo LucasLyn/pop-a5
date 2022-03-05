@@ -45,7 +45,7 @@ This is doable due to the index adress of an array.
 
 
 
-#5g1 (d)
+# 5g1 (d)
 
 The difference between an imperative and functional approach, is that functional programming is more declarative,
 and purely functional data structures are more consistent around the structure itself.
